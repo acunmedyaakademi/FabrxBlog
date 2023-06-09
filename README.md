@@ -1,2 +1,2 @@
 # FabrxBlogPage
-<a href="http://mertcanoncul.akademiprojeler.live/" target="_blank">Live</a>
+[live](http://mertcanoncul.akademiprojeler.live)
