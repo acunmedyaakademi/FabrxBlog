@@ -120,6 +120,7 @@ h1, h2, h3, h6 {
 
 h3 {
   line-height: 30px;
+  font-size: 20px;
 }
 
 p{
@@ -407,6 +408,7 @@ main {
 
 .footer-nav-item li{
   padding-top: 8px;
+  font-size: 14px;
 }
 
 footer form {
@@ -455,6 +457,12 @@ footer form {
   display: flex;
   justify-content: space-between;
   padding: 1.7rem 0;
+}
+
+.footer-copyright {
+  font-size: 14px;
+  line-height: 24px;
+  color: hsla(0, 1%, 50%, 1);
 }
 
 .footer-social {
