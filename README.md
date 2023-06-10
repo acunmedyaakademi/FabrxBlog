@@ -1,2 +1,2 @@
 # FabrxBlogPage
-[live](http://mertcanoncul.akademiprojeler.live)
+[live](http://mertcanoncul.akademiprojeler.live/pages/fabrx-blog)
